@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">PhotoAlbum</string>
+	<string name="addalbum">Add Album</string>
+	<string name="deletealbum">Delete Album</string>
+	<string name="renamealbum">Rename Album</string>
+	<string name="aname">Album Name</string>
+	<string name="savelabel">Add</string>
+	<string name="deletelabel">Delete</string>
+	<string name="cancellabel">Cancel</string>
+	<string name="action_settings">Settings</string>
+	<string name="confirm">Confirm</string>
+	<string name="oldalbum">Old Album Name</string>
+	<string name="newalbum">New Album Name</string>
+</resources>

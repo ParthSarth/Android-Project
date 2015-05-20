@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/addtag"
+          android:title="Add Tag"
+          android:showAsAction="never"/>
+     
+    <!-- Location Found -->
+    <item android:id="@+id/deletetag"
+          android:title="Delete Tag"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/movephoto"
+          android:title="Move Photo"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/vback"
+          android:title="Back"
+          android:showAsAction="never" />
+     
+    
+     
+    
+
+</menu>

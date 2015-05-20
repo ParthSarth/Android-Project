@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/addalbum"
+          android:title="@string/addalbum"
+          android:showAsAction="never"/>
+     
+    <!-- Location Found -->
+    <item android:id="@+id/deletealbum"
+          android:title="@string/deletealbum"
+          android:showAsAction="never" />
+     
+    <!-- Refresh -->
+    <item android:id="@+id/renamealbum"
+          android:title="@string/renamealbum"
+          android:showAsAction="never" />
+    
+    <!-- Refresh -->
+    <item android:id="@+id/search"
+          android:title="Search"
+          android:showAsAction="never" />
+    
+    <!-- Refresh -->
+    <item android:id="@+id/exit"
+          android:title="Exit"
+          android:showAsAction="never" />
+     
+    
+
+</menu>
